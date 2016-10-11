@@ -1,20 +1,20 @@
 {
-  "name": "eslint-config-spacebetween",
-  "description": "JavaScript Space Between - ESLint Shareable Config",
-  "version": "1.1.0",
+  "name": "eslint-config-codeart",
+  "description": "JavaScript CodeArt - ESLint Shareable Config",
+  "version": "1.2.0",
   "author": {
-    "name": "Space Between",
-    "email": "hello@spacebetween.io",
-    "url": "http://spacebetween.io/"
+    "name": "CodeArt",
+    "email": "lukas.vorlicek@codeart.cz",
+    "url": "http://www.codeart.cz/"
   },
   "bugs": {
-    "url": "https://github.com/spacebetween/eslint-config-spacebetween/issues"
+    "url": "https://github.com/f000/eslint-config-codeart/issues"
   },
   "devDependencies": {
     "eslint": "^2.4.0",
     "tape": "^4.0.0"
   },
-  "homepage": "https://github.com/spacebetween/eslint-config-spacebetween",
+  "homepage": "https://github.com/f000/eslint-config-codeart",
   "keywords": [
     "eslintconfig",
     "eslint-config",
@@ -24,7 +24,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/spacebetween/eslint-config-spacebetween.git"
+    "url": "git://github.com/f000/eslint-config-codeart.git"
   },
   "scripts": {
     "test": "tape test/*.js"
